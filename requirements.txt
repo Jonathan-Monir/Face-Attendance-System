@@ -2,7 +2,6 @@ streamlit
 datetime
 pandas
 numpy
-csv
 PIL
 cv2
 face_recognition
