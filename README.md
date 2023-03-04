@@ -2,14 +2,12 @@
 
 ## How to run the project
 
-1. run the requirements.txt file 
+1. install requirements.txt file 
 
-2. cd Attendance-System-Project\Deployment 
-
-3. streamlit run Home_Page.py [ARGUMENTS]
+2. streamlit run Home_Page.py [ARGUMENTS]
 
 
-## Overview fro the Application
+## Overview for the Application
 
 1. ### Home page 
 
