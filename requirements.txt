@@ -2,7 +2,6 @@ streamlit
 datetime
 pandas
 numpy
-glob
 csv
 PIL
 cv2
