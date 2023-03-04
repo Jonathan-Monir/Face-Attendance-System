@@ -1,1 +1,5 @@
-numpy
+uninstall cv2
+install opencv-python==4.7.0.68
+install numpy
+uninstall face-recognition==1.3.0
+install pandas
